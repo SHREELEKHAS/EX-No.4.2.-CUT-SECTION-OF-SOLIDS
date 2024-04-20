@@ -1,5 +1,6 @@
+## SHREE LEKHA.S(212223110052)
 # EX No.4.2. CUT SECTION OF SOLIDS
-## DATE:31-3-2024
+## DATE:31.03.2024
 
 ## AIM: 
 To create the solid model from given drawing and section the solid model
